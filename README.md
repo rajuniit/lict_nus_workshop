@@ -1,2 +1,2 @@
 # AI and Machine Learning Workshop
-####Collaboration between Bangladesh LICT AND Singapure National University.
+#### Collaboration between Bangladesh LICT AND Singapore National University.
